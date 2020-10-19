@@ -1,0 +1,9 @@
+[32mINFO    [0m test_e2e:test_e2e.py:23 getting cart titles
+[32mINFO    [0m test_e2e:test_e2e.py:25 [<selenium.webdriver.remote.webelement.WebElement (session="464a95849db741de72892cd8359a515c", element="05a26fa2-6b4e-412d-8258-439b78a38d57")>, <selenium.webdriver.remote.webelement.WebElement (session="464a95849db741de72892cd8359a515c", element="5fdce61c-1d7e-48fe-9db3-a86b739c0408")>, <selenium.webdriver.remote.webelement.WebElement (session="464a95849db741de72892cd8359a515c", element="94a28cf5-acce-41cf-b2f1-6202c194af32")>, <selenium.webdriver.remote.webelement.WebElement (session="464a95849db741de72892cd8359a515c", element="dbab9e53-3741-4b94-b5fd-7a302ac42bc1")>]
+[32mINFO    [0m test_e2e:test_e2e.py:32 iphone X
+[32mINFO    [0m test_e2e:test_e2e.py:32 Samsung Note 8
+[32mINFO    [0m test_e2e:test_e2e.py:32 Nokia Edge
+[32mINFO    [0m test_e2e:test_e2e.py:32 Blackberry
+[32mINFO    [0m test_e2e:test_e2e.py:45 entering country name
+[32mINFO    [0m test_e2e:test_e2e.py:55 text match is:×
+Success! Thank you! Your order will be delivered in next few weeks :-).

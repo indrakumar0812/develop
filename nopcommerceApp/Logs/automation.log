@@ -1,0 +1,6 @@
+2020-08-27 22:21:48,364 :INFO : Test_002_Customers :---------Starting Test_002__Customers--------
+2020-08-27 22:21:48,386 :INFO : Test_002_Customers :---------Entering User details--------
+2020-08-27 22:21:48,387 :INFO : Test_002_Customers :---------Clicking the Customers option--------
+2020-08-27 22:21:53,583 :INFO : Test_002_Customers :---------Creating a new user--------
+2020-08-27 22:22:00,917 :WARNING : Test_002_Customers :--------Exception has occured--------
+2020-08-27 22:22:08,914 :INFO : Test_002_Customers :---------New Customer Created--------
